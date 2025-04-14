@@ -6,7 +6,7 @@ The folder also includes a free font found online. For the record, it is include
 
 Installation Instructions (macOS)
 
-1. Open a terminal and navigate to the folder that contains this README and enter:
+Open a terminal and navigate to the folder that contains this README and enter:
 
 make
 
